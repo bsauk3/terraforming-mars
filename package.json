@@ -1,5 +1,4 @@
 {
-  "main" : "app.js",
   "name": "terraforming-mars",
   "version": "1.0.0",
   "description": "Terraforming Mars Game",

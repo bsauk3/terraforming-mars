@@ -1,4 +1,5 @@
 {
+  "main" : "build/src/server/server.js",
   "name": "terraforming-mars",
   "version": "1.0.0",
   "description": "Terraforming Mars Game",

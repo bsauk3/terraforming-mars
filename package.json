@@ -29,7 +29,8 @@
     "webpack-cli": "^4.5.0"
   },
   "devDependencies": {
-    "@types/html-escaper": "^3.0.0"
+    "@types/html-escaper": "^3.0.0",
+    "vue-loader": "^15.9.7"
   },
   "nyc": {
     "extends": "@istanbuljs/nyc-config-typescript"

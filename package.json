@@ -84,5 +84,15 @@
     "dev:prepare": "rm build/main.js.gz build/main.js.br || true",
     "dev:client": "npm run dev:prepare && cross-env NODE_ENV=development webpack --watch",
     "dev:server": "npm run dev:prepare && npm run make:static && cross-env NODE_ENV=development tsnd src/server/server.ts"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bafolts/terraforming-mars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bafolts/terraforming-mars/issues"
+  },
+  "homepage": "https://github.com/bafolts/terraforming-mars#readme"
 }

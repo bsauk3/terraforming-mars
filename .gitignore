@@ -1,5 +1,4 @@
 # Server Settings
-.env
 *.pem
 db/*
 tests/integration/.env
